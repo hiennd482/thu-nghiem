@@ -55,7 +55,7 @@ if (isset($_SESSION['userclient'])) {
                 </div>
                 <input name="submit" type="submit" class="btn" value="Đăng nhập"></input>
                 <div class="signup_link">
-                    Không phải là thành viên?<a href="Register.php">Đăng kí</a>
+                    Không phải là thành viên đúng ko ??<a href="Register.php">Đăng kí</a>
                 </div>
             </form>
         </div>
